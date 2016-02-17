@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-wp-paidmembershipspro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Integration with Wordpress Paid Memberships Pro plugin",
   "main": "library.js",
   "repository": {
